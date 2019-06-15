@@ -3,502 +3,602 @@
     {
       "id":"1X1",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"1X2",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"1X3",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"1X4",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"1X5",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"1X6",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"1X7",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"1X8",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"1X9",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"1X10",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"2X1",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"2X2",
       "type":"cubicle",
-      "desk": "101A"
+      "desk": "101A",
+      "entry_point":false
     },
     {
       "id":"2X3",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"2X4",
       "type": "cubicle",
-      "desk": "101B"
+      "desk": "101B",
+      "entry_point":false
     },
     {
       "id":"2X5",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"2X6",
       "type": "cubicle",
-      "desk": "104A"
+      "desk": "104A",
+      "entry_point":false
     },
     {
       "id":"2X7",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"2X8",
       "type":"cubicle",
-      "desk": "104B"
+      "desk": "104B",
+      "entry_point":false
     },
     {
       "id":"2X9",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"2X10",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"3X1",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"3X2",
       "type":"cubicle",
-      "desk": "101C"
+      "desk": "101C",
+      "entry_point":false
     },
     {
       "id":"3X3",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"3X4",
       "type": "cubicle",
-      "desk": "101D"
+      "desk": "101D",
+      "entry_point":false
     },
     {
       "id":"3X5",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"3X6",
       "type": "cubicle",
-      "desk": "104C"
+      "desk": "104C",
+      "entry_point":false
     },
     {
       "id":"3X7",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"3X8",
       "type":"cubicle",
-      "desk": "104D"
+      "desk": "104D",
+      "entry_point":false
     },
     {
       "id":"3X9",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"3X10",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"4X1",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"4X2",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"4X3",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"4X4",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"4X5",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"4X6",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"4X7",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"4X8",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"4X9",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"4X10",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"5X1",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"5X2",
       "type":"cubicle",
-      "desk": "102A"
+      "desk": "102A",
+      "entry_point":false
     },
     {
       "id":"5X3",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"5X4",
       "type": "cubicle",
-      "desk": "102B"
+      "desk": "102B",
+      "entry_point":false
     },
     {
       "id":"5X5",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"5X6",
       "type": "cubicle",
-      "desk": "105A"
+      "desk": "105A",
+      "entry_point":false
     },
     {
       "id":"5X7",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"5X8",
       "type":"cubicle",
-      "desk": "105B"
+      "desk": "105B",
+      "entry_point":false
     },
     {
       "id":"5X9",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"5X10",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"6X1",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"6X2",
       "type":"cubicle",
-      "desk": "102C"
+      "desk": "102C",
+      "entry_point":false
     },
     {
       "id":"6X3",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"6X4",
       "type": "cubicle",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"6X5",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"6X6",
       "type": "cubicle",
-      "desk": "105C"
+      "desk": "105C",
+      "entry_point":false
     },
     {
       "id":"6X7",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"6X8",
       "type":"cubicle",
-      "desk": "105D"
+      "desk": "105D",
+      "entry_point":false
     },
     {
       "id":"6X9",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"6X10",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"7X1",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"7X2",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"7X3",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"7X4",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"7X5",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"7X6",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"7X7",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"7X8",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"7X9",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"7X10",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"8X1",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"8X2",
       "type":"cubicle",
-      "desk": "103A"
+      "desk": "103A",
+      "entry_point":false
     },
     {
       "id":"8X3",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"8X4",
       "type": "cubicle",
-      "desk": "103B"
+      "desk": "103B",
+      "entry_point":false
     },
     {
       "id":"8X5",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"8X6",
       "type": "cubicle",
-      "desk": "106A"
+      "desk": "106A",
+      "entry_point":false
     },
     {
       "id":"8X7",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"8X8",
       "type":"cubicle",
-      "desk": "106B"
+      "desk": "106B",
+      "entry_point":false
     },
     {
       "id":"8X9",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"8X10",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"9X1",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"9X2",
       "type":"cubicle",
-      "desk": "103C"
+      "desk": "103C",
+      "entry_point":false
     },
     {
       "id":"9X3",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"9X4",
       "type": "cubicle",
-      "desk": "103D"
+      "desk": "103D",
+      "entry_point":false
     },
     {
       "id":"9X5",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"9X6",
       "type": "cubicle",
-      "desk": "106C"
+      "desk": "106C",
+      "entry_point":false
     },
     {
       "id":"9X7",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"9X8",
       "type":"cubicle",
-      "desk": "106D"
+      "desk": "106D",
+      "entry_point":false
     },
     {
       "id":"9X9",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"9X10",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"10X1",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":true
     },
     {
       "id":"10X2",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"10X3",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"10X4",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"10X5",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"10X6",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"10X7",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"10X8",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"10X9",
       "type": "path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     },
     {
       "id":"10X10",
       "type":"path",
-      "desk": ""
+      "desk": "",
+      "entry_point":false
     }
   ]
 }
