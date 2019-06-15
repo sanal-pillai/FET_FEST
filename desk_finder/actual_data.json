@@ -1,0 +1,404 @@
+{
+  "floor_plan": [
+    {
+      "id":"1X1",
+      "type": "path"
+    },
+    {
+      "id":"1X2",
+      "type":"path"
+    },
+    {
+      "id":"1X3",
+      "type": "path"
+    },
+    {
+      "id":"1X4",
+      "type": "path"
+    },
+    {
+      "id":"1X5",
+      "type":"path"
+    },
+    {
+      "id":"1X6",
+      "type": "path"
+    },
+    {
+      "id":"1X7",
+      "type": "path"
+    },
+    {
+      "id":"1X8",
+      "type":"path"
+    },
+    {
+      "id":"1X9",
+      "type": "path"
+    },
+    {
+      "id":"1X10",
+      "type":"path"
+    },
+    {
+      "id":"2X1",
+      "type": "path"
+    },
+    {
+      "id":"2X2",
+      "type":"cubicle"
+    },
+    {
+      "id":"2X3",
+      "type": "path"
+    },
+    {
+      "id":"2X4",
+      "type": "cubicle"
+    },
+    {
+      "id":"2X5",
+      "type":"path"
+    },
+    {
+      "id":"2X6",
+      "type": "cubicle"
+    },
+    {
+      "id":"2X7",
+      "type": "path"
+    },
+    {
+      "id":"2X8",
+      "type":"cubicle"
+    },
+    {
+      "id":"2X9",
+      "type": "path"
+    },
+    {
+      "id":"2X10",
+      "type":"path"
+    },
+    {
+      "id":"3X1",
+      "type": "path"
+    },
+    {
+      "id":"3X2",
+      "type":"cubicle"
+    },
+    {
+      "id":"3X3",
+      "type": "path"
+    },
+    {
+      "id":"3X4",
+      "type": "cubicle"
+    },
+    {
+      "id":"3X5",
+      "type":"path"
+    },
+    {
+      "id":"3X6",
+      "type": "cubicle"
+    },
+    {
+      "id":"3X7",
+      "type": "path"
+    },
+    {
+      "id":"3X8",
+      "type":"cubicle"
+    },
+    {
+      "id":"3X9",
+      "type": "path"
+    },
+    {
+      "id":"3X10",
+      "type":"path"
+    },
+    {
+      "id":"4X1",
+      "type": "path"
+    },
+    {
+      "id":"4X2",
+      "type":"path"
+    },
+    {
+      "id":"4X3",
+      "type": "path"
+    },
+    {
+      "id":"4X4",
+      "type": "path"
+    },
+    {
+      "id":"4X5",
+      "type":"path"
+    },
+    {
+      "id":"4X6",
+      "type": "path"
+    },
+    {
+      "id":"4X7",
+      "type": "path"
+    },
+    {
+      "id":"4X8",
+      "type":"path"
+    },
+    {
+      "id":"4X9",
+      "type": "path"
+    },
+    {
+      "id":"4X10",
+      "type":"path"
+    },
+    {
+      "id":"5X1",
+      "type": "path"
+    },
+    {
+      "id":"5X2",
+      "type":"cubicle"
+    },
+    {
+      "id":"5X3",
+      "type": "path"
+    },
+    {
+      "id":"5X4",
+      "type": "cubicle"
+    },
+    {
+      "id":"5X5",
+      "type":"path"
+    },
+    {
+      "id":"5X6",
+      "type": "path"
+    },
+    {
+      "id":"5X7",
+      "type": "path"
+    },
+    {
+      "id":"5X8",
+      "type":"path"
+    },
+    {
+      "id":"5X9",
+      "type": "path"
+    },
+    {
+      "id":"5X10",
+      "type":"path"
+    },
+    {
+      "id":"6X1",
+      "type": "path"
+    },
+    {
+      "id":"6X2",
+      "type":"path"
+    },
+    {
+      "id":"6X3",
+      "type": "path"
+    },
+    {
+      "id":"6X4",
+      "type": "path"
+    },
+    {
+      "id":"6X5",
+      "type":"path"
+    },
+    {
+      "id":"6X6",
+      "type": "path"
+    },
+    {
+      "id":"6X7",
+      "type": "path"
+    },
+    {
+      "id":"6X8",
+      "type":"path"
+    },
+    {
+      "id":"6X9",
+      "type": "path"
+    },
+    {
+      "id":"6X10",
+      "type":"path"
+    },
+    {
+      "id":"7X1",
+      "type": "path"
+    },
+    {
+      "id":"7X2",
+      "type":"path"
+    },
+    {
+      "id":"7X3",
+      "type": "path"
+    },
+    {
+      "id":"7X4",
+      "type": "path"
+    },
+    {
+      "id":"7X5",
+      "type":"path"
+    },
+    {
+      "id":"7X6",
+      "type": "path"
+    },
+    {
+      "id":"7X7",
+      "type": "path"
+    },
+    {
+      "id":"7X8",
+      "type":"path"
+    },
+    {
+      "id":"7X9",
+      "type": "path"
+    },
+    {
+      "id":"7X10",
+      "type":"path"
+    },
+    {
+      "id":"8X1",
+      "type": "path"
+    },
+    {
+      "id":"8X2",
+      "type":"path"
+    },
+    {
+      "id":"8X3",
+      "type": "path"
+    },
+    {
+      "id":"8X4",
+      "type": "path"
+    },
+    {
+      "id":"8X5",
+      "type":"path"
+    },
+    {
+      "id":"8X6",
+      "type": "path"
+    },
+    {
+      "id":"8X7",
+      "type": "path"
+    },
+    {
+      "id":"8X8",
+      "type":"path"
+    },
+    {
+      "id":"8X9",
+      "type": "path"
+    },
+    {
+      "id":"8X10",
+      "type":"path"
+    },
+    {
+      "id":"9X1",
+      "type": "path"
+    },
+    {
+      "id":"9X2",
+      "type":"path"
+    },
+    {
+      "id":"9X3",
+      "type": "path"
+    },
+    {
+      "id":"9X4",
+      "type": "path"
+    },
+    {
+      "id":"9X5",
+      "type":"path"
+    },
+    {
+      "id":"9X6",
+      "type": "path"
+    },
+    {
+      "id":"9X7",
+      "type": "path"
+    },
+    {
+      "id":"9X8",
+      "type":"path"
+    },
+    {
+      "id":"9X9",
+      "type": "path"
+    },
+    {
+      "id":"9X10",
+      "type":"path"
+    },
+    {
+      "id":"10X1",
+      "type": "path"
+    },
+    {
+      "id":"10X2",
+      "type":"path"
+    },
+    {
+      "id":"10X3",
+      "type": "path"
+    },
+    {
+      "id":"10X4",
+      "type": "path"
+    },
+    {
+      "id":"10X5",
+      "type":"path"
+    },
+    {
+      "id":"10X6",
+      "type": "path"
+    },
+    {
+      "id":"10X7",
+      "type": "path"
+    },
+    {
+      "id":"10X8",
+      "type":"path"
+    },
+    {
+      "id":"10X9",
+      "type": "path"
+    },
+    {
+      "id":"10X10",
+      "type":"path"
+    }
+  ]
+}
