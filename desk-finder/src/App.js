@@ -1,12 +1,12 @@
 import React from 'react';
 // import logo from './logo.svg';
-import FloorPlan from './components/FloorPlan'
+import Front_Page from './components/front_page'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-    <FloorPlan/>
+   <Front_Page/>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
