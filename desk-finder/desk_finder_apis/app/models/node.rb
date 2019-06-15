@@ -9,7 +9,7 @@ class Node < ApplicationRecord
 		'105': ['10X1', '9X1', '8X1', '7X1', '7X2', '7X3', '7X4', '7X5', '7X6', '7X7', '6X7'],
 		'106': ['10X1', '10X2', '10X3', '10X4', '10X5', '10X6', '10X7', '9X7'],
 	}
-	ENTRANCES = ['10x1']
+	ENTRANCES = ['10X1']
 
 	def self.get_coordinates(desk)
 		nodes = CO_ORDINATES[desk.to_sym]
