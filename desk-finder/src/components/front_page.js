@@ -37,13 +37,7 @@ export default class FrontPage extends React.PureComponent {
         margin="normal"
         placeholder="Desk"
       />
-      <Button style={{marginTop:'25px',marginLeft:'20px'}}
-              variant="contained"
-              color="primary"
-              onClick={this.handleChange}>
-        Find it
-      </Button>
-            <FloorPlan deskId={this.state.deskId}></FloorPlan>
+      <FloorPlan deskId={this.state.deskId}></FloorPlan>
       </form>
        </Typography>
       </Container>
