@@ -1,0 +1,35 @@
+{
+  "floor_plan": [
+    {
+      "id":"1X1",
+      "type": "path"
+    },
+    {
+      "id":"1X2",
+      "type":"path"
+    },
+    {
+      "id":"1X3",
+      "type": "path"
+    },
+    {
+      "id":"2X1",
+      "type":"path"
+    },
+    {
+      "id":"2X2",
+      "type": "cubicle"
+    },
+    {
+      "id":"3X1",
+      "type":"path"
+    },
+    {
+      "id":"3X2",
+      "type": "path"
+    },
+    {
+      "id":"3X3",
+      "type":"path"
+    },
+}
