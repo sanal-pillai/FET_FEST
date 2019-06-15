@@ -25,7 +25,6 @@ class Node < ApplicationRecord
 	def self.get_floor_plan
 		file = File.read("#{Rails.root}/public/floor_plan.json")
 		data = JSON.parse(file)
-		print(data)
 		return data
 	end
 end
