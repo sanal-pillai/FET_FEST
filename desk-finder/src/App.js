@@ -1,26 +1,11 @@
 import React from 'react';
-// import logo from './logo.svg';
-import Front_Page from './components/front_page'
+import FrontPage from './components/front_page'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-   <Front_Page/>
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
+        <FrontPage/>
     </div>
   );
 }
